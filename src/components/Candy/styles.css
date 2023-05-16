@@ -1,0 +1,84 @@
+.candy{
+    position: relative;
+    width: 80px;
+    height: 80px;
+    
+}
+
+.candy.red{
+    background:center/ contain no-repeat url(../../../public/candys/bean_red.png);
+}
+.candy.green{
+    background:center/ contain no-repeat url(../../../public/candys/jelly_yellow.png);
+    
+}
+.candy.blue{
+    background:center/ contain no-repeat url(../../../public/candys/mm_teal.png);
+}
+.candy.pink{
+    background:center/ contain no-repeat url(../../../public/candys/lollipop_pink.png);
+}
+
+.boom1Red{
+    background:center/ contain no-repeat url(../../../public/candys/explosionred01.png);
+}
+.boom2Red{
+    background:center/ contain no-repeat url(../../../public/candys/explosionred02.png);
+}
+.boom3Red{
+    background:center/ contain no-repeat url(../../../public/candys/explosionred03.png);
+}
+.boom4Red{
+    background:center/ contain no-repeat url(../../../public/candys/explosionred04.png);
+}
+.boom5Red{
+    background:center/ contain no-repeat url(../../../public/candys/explosionred05.png);
+}
+
+.boom1Green{
+    background:center/ contain no-repeat url(../../../public/candys/explosiongreen01.png);
+}
+.boom2Green{
+    background:center/ contain no-repeat url(../../../public/candys/explosiongreen02.png);
+}
+.boom3Green{
+    background:center/ contain no-repeat url(../../../public/candys/explosiongreen03.png);
+}
+.boom4Green{
+    background:center/ contain no-repeat url(../../../public/candys/explosiongreen04.png);
+}
+.boom5Green{
+    background:center/ contain no-repeat url(../../../public/candys/explosiongreen05.png);
+}
+
+.boom1Blue{
+    background:center/ contain no-repeat url(../../../public/candys/explosionblue01.png);
+}
+.boom2Blue{
+    background:center/ contain no-repeat url(../../../public/candys/explosionblue02.png);
+}
+.boom3Blue{
+    background:center/ contain no-repeat url(../../../public/candys/explosionblue03.png);
+}
+.boom4Blue{
+    background:center/ contain no-repeat url(../../../public/candys/explosionblue04.png);
+}
+.boom5Blue{
+    background:center/ contain no-repeat url(../../../public/candys/explosionblue05.png);
+}
+
+.boom1Pink{
+    background:center/ contain no-repeat url(../../../public/candys/explosionpink01.png);
+}
+.boom2Pink{
+    background:center/ contain no-repeat url(../../../public/candys/explosionpink02.png);
+}
+.boom3Pink{
+    background:center/ contain no-repeat url(../../../public/candys/explosionpink03.png);
+}
+.boom4Pink{
+    background:center/ contain no-repeat url(../../../public/candys/explosionpink04.png);
+}
+.boom5Pink{
+    background:center/ contain no-repeat url(../../../public/candys/explosionpink05.png);
+}
